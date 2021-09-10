@@ -24,4 +24,7 @@
     ```
 5. It will output a mp4 video name `output.mp4` if a video resource is found.
 
-## Guide
+## Demo
+**Make sure that you played the whole video before saving har file!**
+[![https://www.youtube.com/watch?v=8kehDrqrdM0](https://img.youtube.com/vi/8kehDrqrdM0/0.jpg)](https://www.youtube.com/watch?v=8kehDrqrdM0)
+
